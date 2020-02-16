@@ -1,0 +1,13 @@
+f86b11525df7341ff0e8eaf154615ec2 *DESCRIPTION
+3e5d1be00b696b54640c9646a62f31a8 *NAMESPACE
+321bcca880e0ac3045d41e83f12766fd *R/nlmixr_vpc_theme.R
+7c1c5ede27164da78ab5d4332110dd0a *R/summarise_nlmixr_model.R
+b55050d1980de05280b7df7f2d2260ea *R/theme_xp_nlmixr.R
+e14a3e5561be6776ace1b9e9dbd007cd *R/xpose_data_nlmixr.R
+6df46dc7838cbf5618ddc116af7d555c *data/theo_sd_fit.rda
+9c4278f2fdb4849d8a58c545a9276b57 *man/nlmixr_vpc_theme.Rd
+6dd8d07cc3dc7e3b175953d75fc01f7d *man/reexports.Rd
+54c344c3195ae183fdfe68bfe1b33582 *man/summarise_nlmixr_model.Rd
+d3720f9e0e0dcb08ce7449824307dcc6 *man/theme_xp_nlmixr.Rd
+40207262ea1d50ccb82a0e06357d883e *man/theo_sd_fit.Rd
+7d19a34ca1b178a0043546c81542b850 *man/xpose_data_nlmixr.Rd
