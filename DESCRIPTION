@@ -2,7 +2,7 @@ Package: xpose.nlmixr
 Type: Package
 Title: Graphical Diagnostics for Pharmacometric Models: Extension to
         'nlmixr'
-Version: 0.2.0
+Version: 0.3.0
 Authors@R: c(person('Justin', 'Wilkins', email = 'justin.wilkins@occams.com',
                   role = c('aut', 'cre', 'cph')),
           person('Matthew','Fidler',
@@ -40,9 +40,9 @@ Imports: ggplot2 (>= 2.2.1), nlmixr (>= 1.1.0-0), dplyr (>= 0.7.4),
         tibble (>= 2.0.0), stringr (>= 1.2.0), tidyr (>= 0.7.2),
         magrittr (>= 1.5), methods (>= 3.4.1), vpc (>= 1.0.2), nlme,
         crayon, rlang
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2021-04-26 07:57:22 UTC; justin
+Packaged: 2022-06-05 14:14:10 UTC; justi
 Author: Justin Wilkins [aut, cre, cph],
   Matthew Fidler [aut, cph],
   Benjamin Guiastrennec [aut],
@@ -59,4 +59,4 @@ Author: Justin Wilkins [aut, cre, cph],
   Occams [ctb],
   Novartis [ctb]
 Repository: CRAN
-Date/Publication: 2021-04-26 10:20:03 UTC
+Date/Publication: 2022-06-06 18:40:02 UTC

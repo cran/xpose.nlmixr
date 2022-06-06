@@ -1,10 +1,10 @@
-8d86aa02504d15f945ea7cc7af5af2cf *DESCRIPTION
+3b34e023a88c7a0edefea4e180940e89 *DESCRIPTION
 54703d55e650635fdd7c045f49037a63 *NAMESPACE
-542bff97942e7574773058d7ae1a0d90 *NEWS.md
+636c15f813e9e77a453d30380ab76271 *NEWS.md
 321bcca880e0ac3045d41e83f12766fd *R/nlmixr_vpc_theme.R
 794f78305fada3e04cf7a129ed1418f0 *R/summarise_nlmixr_model.R
 b55050d1980de05280b7df7f2d2260ea *R/theme_xp_nlmixr.R
-abd8cb39c356cd4aebd6fe78fe43412f *R/xpose_data_nlmixr.R
+9682b81ffec7cb97fb6bece802052dbd *R/xpose_data_nlmixr.R
 b6bc4b247b63d774086398968326c2a8 *README.md
 6df46dc7838cbf5618ddc116af7d555c *data/theo_sd_fit.rda
 da75975ab17f17b5c2ddb4eed1c934a7 *man/nlmixr_vpc_theme.Rd
@@ -12,4 +12,4 @@ da75975ab17f17b5c2ddb4eed1c934a7 *man/nlmixr_vpc_theme.Rd
 9c8963635fa43c5e2e3c8eea6207a7ac *man/summarise_nlmixr_model.Rd
 0529ac130e57a5e5d88f7215148a06f9 *man/theme_xp_nlmixr.Rd
 40207262ea1d50ccb82a0e06357d883e *man/theo_sd_fit.Rd
-51efcaecbedbc4bee8e100ae5a6c4003 *man/xpose_data_nlmixr.Rd
+ccbea1898f547d81d1658e5cba822411 *man/xpose_data_nlmixr.Rd
